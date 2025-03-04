@@ -1,6 +1,6 @@
 ### Hi!
 
-I am a researcher and university teacher in study of cultures, educated in study of religion and sociology. Well seasoned in qualitative analysis, I became interested in programming and data-analysis few years ago, and I have been catching up ever since. 
+I am a researcher and university teacher in study of cultures, educated in study of religion and sociology. Well seasoned in qualitative analysis, I became interested in programming and data-analysis around 2018, and I have been catching up ever since. 
 
 Currently I am involved in following research projects, where I apply some of these skills:
 - [Imagined West: Occidentalist narrative in Finnish news media in the context of the war in Ukraine](https://www.tuni.fi/en/research/imagined-west) studies how the West is discussed in Finnish news media, after the Russian attack to Ukraine in 2022. My role is in data-acquisition, data wrangling and corpus linguistic analyses of the project.
